@@ -10,4 +10,5 @@ I use Victoriametrics as my default data source in dashboard, so maybe you will 
 https://github.com/j6s/mailcow-exporter
 
 ## How does it look
-![mailcow-dashboard](https://user-images.githubusercontent.com/22323673/195430242-1b1e42e0-4a10-4b8a-9159-e975647ec2fb.png)
+![mailcow_dashboard](https://user-images.githubusercontent.com/22323673/195607995-885a28dd-3d3f-4cd2-9a19-d05565c0dc2f.png)
+
